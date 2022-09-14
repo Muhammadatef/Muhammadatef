@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Atef Fahmy</h1>
-<h3 align="center">👀 I’m interested in Data Science/Data Engineering - 🌱 I’m currently learning Python, ML,DL and Data Engineering Concepts and tools - 💞️ I’m looking to collaborate on some practical projects related to data science</h3>
+<h3 align="center">👀 I’m interested in Data Science/Data Engineering and Data Analysis - 🌱 I’m currently learning Python, ML,DL and Data Engineering Concepts and tools - 💞️ I’m looking to collaborate on some practical projects related to data science</h3>
 
 - 👯 I’m looking to collaborate on **ML and Data Science projects**
 
