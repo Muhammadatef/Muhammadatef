@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **ML and Data Science projects**
 
-- 💬 Ask me about **ML, DL, Data Science**
+- 💬 Ask me about **ML, Data Science, and Data Enginering**
 
 - 📫 How to reach me **muhamedfahmy7474@gmail.com**
 
