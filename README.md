@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Atef Fahmy</h1>
-<h3 align="center">👀 I’m interested in Data Science/Data Engineering and Data Analysis - 🌱 I’m currently learning Python, ML,DL and Data Engineering Concepts and tools - 💞️ I’m looking to collaborate on some practical projects related to data science</h3>
+<h3 align="center">👀  with more than 3 years of experience in Data Science and Data Engineering, specializing in tools such as Spark, Hadoop, SQL, Python, Airflow, Hive, and Linux. 🌱 Expanding expertise in Python, Spark, and Data Engineering concepts. 💞️ Open to collaborating on practical data science and engineering projects. </h3>
 
-- 👯 I’m looking to collaborate on **ML and Data Science projects**
+- 👯 I’m looking to collaborate on **Data Engineering and Data Science projects**
 
-- 💬 Ask me about **ML, Data Science, and Data Enginering**
+- 💬 Ask me about **ML, Data Science, and Data Engineering**
 
 - 📫 How to reach me **muhamedfahmy7474@gmail.com**
 
